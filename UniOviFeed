@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Noticias Universidades</title>
+    <id>https://dancabaltf4.github.io/WebPruebas/</id>
+    <link href="https://dancabaltf4.github.io/WebPruebas/"/>
+    <updated>2025-04-10T19:33:00Z</updated>
+    <entry>
+        <id>https://dancabaltf4.github.io/WebPruebas/#bomba?</id>
+        <title>¿Será UniOvi Bombardeada?</title>
+        <link href="https://dancabaltf4.github.io/WebPruebas/"/>
+        <updated>2025-04-10T19:33:00Z</updated>
+        <summary>Se han notado numerosas amenazas sobre un posible bombardeo a la universidad de Oviedo</summary>
+        <author>
+            <name>Dani</name>
+        </author>
+    </entry>
+    <entry>
+        <id>https://dancabaltf4.github.io/WebPruebas/#bomba</id>
+        <title>¡UniOvi ha sido bombardeada!</title>
+        <link href="https://dancabaltf4.github.io/WebPruebas/"/>
+        <updated>2025-04-10T19:33:00Z</updated>
+        <summary>Bombardearon UniOvi</summary>
+        <author>
+            <name>Dani</name>
+        </author>
+    </entry>
+</feed>
