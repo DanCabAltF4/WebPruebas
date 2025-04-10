@@ -1,0 +1,27 @@
+section>p {
+    font-size: 20px;
+}
+
+h1+p {
+    color: darkorange;
+}
+p~p{
+    color: rgb(200, 50, 255);
+}
+p:nth-child(1){
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p:last-child{
+    font-family: sans-serif;
+}
+pre:only-child{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p:nth-child(odd){
+    background-color: #999999;
+    font-style: italic;
+}
+p:nth-child(even){
+    background-color: #CCCCCC;
+    font-style: oblique;
+}
